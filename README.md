@@ -6,7 +6,7 @@ A front-end clone of YouTube's homepage UI, built with pure HTML and CSS — no 
 
 ## 🖥️ Demo
 
-http://127.0.0.1:5500/youtube.html
+ https://hasheel18.github.io/YouTube-UI-Clone/youtube.html
 
 ---
 
